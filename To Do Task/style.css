@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../Form/img/annie-spratt-Ki0-ea-Hgx4-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
